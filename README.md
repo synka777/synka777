@@ -1,8 +1,8 @@
-#### 🇨🇵 Bienvenue sur mon profil ! 👋
+### 🇨🇵 Bienvenue sur mon profil ! 👋
 
 Curieux et touche-à-tout, je suis un développeur passionné qui explore constamment de nouveaux horizons. Je suis particulièrement attiré par l’écosystème Python et je continue à évoluer chaque jour dans cet univers. Toujours en quête d'apprentissage, j'aime expérimenter et repousser mes limites.
 
-#### 🚀 Mes projets touchent à divers domaines :
+### 🚀 Mes projets touchent à divers domaines :
 - Développement d'outils CLI pour l'automatisation et la gestion de fichiers
 - Scraping de données et automatisation
 - Développement d'APIs en Django et FastAPI
@@ -14,11 +14,11 @@ Curieux et touche-à-tout, je suis un développeur passionné qui explore consta
 
 ---
 
-#### 🇬🇧 Welcome to my profile! 👋
+### 🇬🇧 Welcome to my profile! 👋
 
 Curious and versatile, I am a passionate developer constantly exploring new horizons. I am particularly drawn to the Python ecosystem and continue to evolve in this field day by day. Always striving to learn, I love experimenting and pushing my limits.
 
-#### 🚀 My projects cover a variety of topics:
+### 🚀 My projects cover a variety of topics:
 - CLI tools for automation and file management
 - Data scraping and automation
 - API development with Django and FastAPI
