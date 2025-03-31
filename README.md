@@ -8,7 +8,7 @@ Curieux et touche-à-tout, je suis un développeur passionné qui explore consta
 - Développement d'APIs en Django et FastAPI
 - Monitoring des performances et optimisation
 
-##### 🎯 Je suis actuellement à la recherche d’un poste en **backend Python** ou **fullstack Python/Angular**. Je suis également intéressé par le CI/CD et l'amélioration continue des workflows de développement.
+#### 🎯 Je suis actuellement à la recherche d’un poste en **backend Python** ou **fullstack Python/Angular**. Je suis également intéressé par le CI/CD et l'amélioration continue des workflows de développement.
 
 💡 J’aime découvrir de nouvelles techniques et approfondir mes compétences, notamment en développement backend, Angular et en intégration continue.
 
@@ -24,6 +24,6 @@ Curious and versatile, I am a passionate developer constantly exploring new hori
 - API development with Django and FastAPI
 - Performance monitoring and optimization
 
-##### 🎯 I am currently looking for a position as a **Python backend** or **fullstack Python/Angular** developer. I'm also interested in CI/CD and improving development workflows.
+#### 🎯 I am currently looking for a position as a **Python backend** or **fullstack Python/Angular** developer. I'm also interested in CI/CD and improving development workflows.
 
 💡 I enjoy discovering new techniques and deepening my skills, especially in backend development, Angular, and continuous integration.
