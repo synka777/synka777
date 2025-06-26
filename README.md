@@ -15,7 +15,7 @@ Curieux et touche-à-tout, je suis un développeur passionné qui explore consta
 
 ---
 
-### 🇨🇵 Welcome to my profile! 👋
+### 🇬🇧 Welcome to my profile! 👋
 
 Curious and versatile, I am a passionate developer who is constantly exploring new horizons. I am particularly drawn to the Python ecosystem and continue to evolve every day in this universe. Always eager to learn, I enjoy experimenting and pushing my limits.
 
